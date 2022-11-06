@@ -1,0 +1,2 @@
+Modeli iyileştirmek için Content Based Filtering metodunu kullandım. Nedeni ise geçenki algoritmada isim ve özellik aynı olduğu için bazen korku filmi ve animasyon filmi aynı aynda önerilebilirdi.
+Mantığı oturtabildim ancak maalesef kod kısmında fazla hata aldım.
